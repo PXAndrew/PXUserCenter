@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PXUserCenter_Example' do
+  pod 'PXUserCenter', :path => '../'
+
+  target 'PXUserCenter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
