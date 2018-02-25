@@ -1,0 +1,6 @@
+framework module Pods_PXUserCenter_Example {
+  umbrella header "Pods-PXUserCenter_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

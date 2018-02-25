@@ -1,0 +1,6 @@
+framework module PXUserCenter {
+  umbrella header "PXUserCenter-umbrella.h"
+
+  export *
+  module * { export * }
+}
